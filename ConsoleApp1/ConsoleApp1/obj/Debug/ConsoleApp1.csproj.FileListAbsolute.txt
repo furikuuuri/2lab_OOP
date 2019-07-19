@@ -1,0 +1,7 @@
+D:\2 курс 1 сем\ООП\1 лаба\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\2 курс 1 сем\ООП\1 лаба\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\2 курс 1 сем\ООП\1 лаба\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\2 курс 1 сем\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\2 курс 1 сем\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\2 курс 1 сем\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\2 курс 1 сем\ООП\1 лаба\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
